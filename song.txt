@@ -5,3 +5,4 @@ Fourth line
 The End.
 
 feature 1
+feature 2
